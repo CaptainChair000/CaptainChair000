@@ -63,10 +63,7 @@
 > 🇹🇷 *"Küçük adımlarla da olsa, hayal ettiğin dünyayı inşa edebilirsin…"*  
 > 🇬🇧 *"Even with small steps, you can build the world you imagine..."*
 
-<p align="center">
-  <br>
-  Çoğu şeyi Yui yazdı :)
-</p>
+## Çoğu şeyi yui yazdı :) / Yui wrote most of the things :)
 <p align="center">
   <img src="https://media1.tenor.com/m/iSumE3JoYokAAAAC/vn-visual.gif" height="150"/>
 </p>
