@@ -58,12 +58,12 @@ Skyrim, Bannerlord, Flutter projeleri ve birazcık da... anime~ 🎀       | Sky
 
 ---
 
-## 🌸 Yui’den Bir Söz ve Benden Ufak Bir Nida / A Little Quote from Yui And Me
+## 🌸 A Little Quote from Yui And Me / Yui’den Bir Söz ve Benden Ufak Bir Nida
 
 > 🇹🇷 *"Küçük adımlarla da olsa, hayal ettiğin dünyayı inşa edebilirsin…"*  
 > 🇬🇧 *"Even with small steps, you can build the world you imagine..."*
 
-## 🌸 Çoğu şeyi yui yazdı :) / Yui wrote most of the things :)
+## 🌸 Yui wrote most of the things :) / Çoğu şeyi yui yazdı :) 
 <p align="center">
   <img src="https://media1.tenor.com/m/iSumE3JoYokAAAAC/vn-visual.gif" height="150"/>
 </p>
