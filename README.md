@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/ZX1RxJwSmSEAAAAC/anime-girl.gif" height="180"/>
+  <img src="https://media.tenor.com/bALtjR9cjCYAAAAj/anime.gif" height="180"/>
 </p>
 
 ---
@@ -64,7 +64,11 @@
 > 🇬🇧 *"Even with small steps, you can build the world you imagine..."*
 
 <p align="center">
-  <img src="https://media.tenor.com/SRXXKQgq6fYAAAAC/anime-girl-cute.gif" height="150"/>
+  <br>
+  Çoğu şeyi Yui yazdı :)
+</p>
+<p align="center">
+  <img src="https://media1.tenor.com/m/iSumE3JoYokAAAAC/vn-visual.gif" height="150"/>
 </p>
 
 ---
