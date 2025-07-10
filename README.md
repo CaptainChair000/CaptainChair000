@@ -14,22 +14,22 @@
 
 ## 🍡 About Me / Hakkımda
 
-| 🇹🇷 Türkçe                                                                 | 🇬🇧 English                                                                  |
-|---------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| Merhaba! Ben Ömer, hayal gücü ile kodları birleştiren bir geliştiriciyim. | Hi! I'm Ömer, a developer combining imagination and code!                    |
-| En sevdiğim şey: Fantastik oyun dünyalarına can vermek!                  | I love bringing fantasy game worlds to life!                                |
-| Skyrim, Bannerlord, Flutter projeleri ve birazcık da... anime~ 🎀       | Skyrim, Bannerlord, Flutter apps, and yes... a little anime magic~ ✨       |
+| 🇹🇷 Türkçe                                                                 | 🇬🇧 English                                                                  
+|---------------------------------------------------------------------------|------------------------------------------------------------------------------
+ Merhaba! Ben Ömer, hayal gücü ile kodları birleştiren bir geliştiriciyim. | Hi! I'm Ömer, a developer combining imagination and code!                    
+ En sevdiğim şey: Fantastik oyun dünyalarına can vermek!                  | I love bringing fantasy game worlds to life!                                
+Skyrim, Bannerlord, Flutter projeleri ve birazcık da... anime~ 🎀       | Skyrim, Bannerlord, Flutter apps, and yes... a little anime magic~ ✨       
 
 ---
 
-## 🎌 Project Scroll 📜
+## 🎌 Project Scroll / Bazı Projelerim📜
 
-| 💻 Proje 🇹🇷                                                                                        | 🧠 Project 🇬🇧                                                                                        |
-|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| 🐄 **Hayvancılık Bilgi Sistemi** <br> Mobil ve Admin Panel haberleşmeli sistem                     | 🐄 **Livestock Info System** <br> Communication between mobile app & admin dashboard         |
-| ⚔️ **Skyrim AE Mod Koleksiyonu** <br> 1000+ mod, dövüş ve görsellik yükseltmeleri                  | ⚔️ **Skyrim AE Mod Collection** <br> 1000+ mods for combat & graphic overhaul                |
-| 🤖 **Google Forms Otomasyonu** <br> Python ile otomatik form doldurma                              | 🤖 **Google Forms Automation** <br> Auto form filling with Python                            |
-| ⚙ **Skyrim Auto Starter** <br> Python ile Skyrim GrassCache için MO2 plugin alternatifi            | ⚙ **Skyrim Auto Starter** <br> MO2 plugin alternative for Skyrim GrassCache with Python     |
+| 💻 Proje 🇹🇷                                                                                                               | 🧠 Project 🇬🇧                                                                           
+|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| 🐄 **Hayvancılık Bilgi Sistemi** <br> Mobil ve Admin Panel haberleşmeli sistem| 🐄 **Livestock Info System** <br> Communication between mobile app & admin dashboard         
+| ⚔️ **Skyrim AE Mod Koleksiyonu** <br> 1000+ mod, dövüş ve görsellik yükseltmeleri| ⚔️ **Skyrim AE Mod Collection** <br> 1000+ mods for combat & graphic overhaul                
+| 🤖 **Google Forms Otomasyonu** <br> Python ile otomatik form doldurma   | 🤖 **Google Forms Automation** <br> Auto form filling with Python                            
+| ⚙ **Skyrim Auto Starter** <br> Python ile Skyrim GrassCache için MO2 plugin alternatifi| ⚙ **Skyrim Auto Starter** <br> MO2 plugin alternative for Skyrim GrassCache with Python     
 
 ---
 
