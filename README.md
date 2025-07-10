@@ -22,14 +22,14 @@
 
 ---
 
-## 🎌 Yui's Kawaii Project Scroll 📜
+## 🎌 Project Scroll 📜
 
 | 💻 Proje 🇹🇷                                                                                   | 🧠 Project 🇬🇧                                                                                |
 |-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| 🐄 **Hayvancılık Bilgi Sistemi** <br> Mobil ve Admin Panel haberleşmeli sistem                | 🐄 **Livestock Info System** <br> Communication between mobile app & admin dashboard        |
-| ⚔️ **Skyrim AE Mod Koleksiyonu** <br> 500+ mod, dövüş ve görsellik yükseltmeleri              | ⚔️ **Skyrim AE Mod Collection** <br> 500+ mods for combat & graphic overhaul                |
-| 🛡️ **Bannerlord LAN Co-op** <br> Aynı haritada çok oyuncu desteği                            | 🛡️ **Bannerlord LAN Co-op** <br> Multiplayer on the same campaign map                      |
-| 🤖 **Google Forms Otomasyonu** <br> Python ile otomatik form doldurma                         | 🤖 **Google Forms Automation** <br> Auto form filling with Python                          |
+| 🐄 **Hayvancılık Bilgi Sistemi** <br> Mobil ve Admin Panel haberleşmeli sistem                | 🐄 **Livestock Info System** <br> Communication between mobile app & admin dashboard         |
+| ⚔️ **Skyrim AE Mod Koleksiyonu** <br> 1000+ mod, dövüş ve görsellik yükseltmeleri             | ⚔️ **Skyrim AE Mod Collection** <br> 1000+ mods for combat & graphic overhaul                |
+| 🤖 **Google Forms Otomasyonu** <br> Python ile otomatik form doldurma                         | 🤖 **Google Forms Automation** <br> Auto form filling with Python                            |
+| ⚙ **Skyrim Auto Starter** <br> Python ile Skyrim GrassCache için MO2 plugin alternatifi       | ⚙ **Skyrim Auto Starter** <br> MO2 plugin alternative for Skyrim GrassCache with Python     |
 
 ---
 
@@ -44,8 +44,8 @@
 ## 📊 My GitHub Stats / GitHub İstatistikleri
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CaptainChair000&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainChair000&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
 ---
@@ -54,13 +54,11 @@
 
 | Platform         | Link |
 |------------------|------|
-| 🎬 YouTube        | [youtube.com](https://youtube.com) |
-| 🧙‍♂️ Nexus Mods    | [nexusmods.com](https://nexusmods.com/users/YOUR-ID) |
-| 🎮 Discord        | `YourDiscordID#1234` |
+| 🧙‍♂️ Nexus Mods    | [nexusmods.com](https://nexusmods.com/users/TheDarkGamers000) |
 
 ---
 
-## 🌸 Yui’den Bir Söz / A Little Quote from Yui
+## 🌸 Yui’den Bir Söz ve Benden Ufak Bir Nida / A Little Quote from Yui And Me
 
 > 🇹🇷 *"Küçük adımlarla da olsa, hayal ettiğin dünyayı inşa edebilirsin…"*  
 > 🇬🇧 *"Even with small steps, you can build the world you imagine..."*
